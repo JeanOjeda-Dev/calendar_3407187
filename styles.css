@@ -47,7 +47,7 @@ body {
 }
 
 .prueba {
-    font-size: 8px; /* Mantenemos tus 8px originales */
+    font-size: 8px;
     margin-top: 5px;
     word-break: break-word; /* Obliga al texto largo a saltar de línea en vez de estirar la celda */
 }
@@ -159,7 +159,7 @@ body {
     }
     
     .prueba {
-        font-size: 6px; /* Achicamos un pelín la letra solo en celular */
+        font-size: 6px; 
     }
 
     .main-header__toggle{
